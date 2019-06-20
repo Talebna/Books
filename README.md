@@ -1,2 +1,2 @@
 # Books
-dedicated for all interested books 
+dedicated for all interested books and courses
