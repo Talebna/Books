@@ -7,7 +7,7 @@
 3. Computer Algorithms in Systems Engineering (Spring 2010), MIT
     - Link: https://ocw.mit.edu/courses/civil-and-environmental-engineering/1-204-computer-algorithms-in-systems-engineering-spring-2010/
 4. Design and Analysis of Algorithms (Spring 2015), MIT
-    - Link: Design and Analysis of Algorithms (Spring 2015)
+    - Link: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/
 5. Programming for the Puzzled (January IAP 2018), MIT
     - Link: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s095-programming-for-the-puzzled-january-iap-2018/
 
