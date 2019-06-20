@@ -1,4 +1,4 @@
-# Algorithms and Data Structrs
+# Algorithms and Data Structures
 
 1. Introduction to Algorithms(Fall 2011), MIT 
     - Link: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/
