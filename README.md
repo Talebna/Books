@@ -34,4 +34,9 @@
     - Youtube playlist : https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w/playlists
     - Enroll : https://www.coursera.org/specializations/deep-learning?utm_source=deeplearningai&utm_medium=institutions&utm_campaign=WebsiteCoursesDLSTopButton
 
-2. 
+2. Stanford Machine Learning class cs229
+    - Notes : https://github.com/Talebna/Books/blob/master/Machine%20Learning/machine_learning_notes__cs229_.pdf
+    - Videos : https://see.stanford.edu/Course/CS229?fbclid=IwAR2uD7D8EVQwp2O7dGv_jDVzVG8Wr02WVB5f8eW-6y4oDMijQbHbPnF5JCQ
+
+
+
